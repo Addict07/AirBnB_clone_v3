@@ -160,6 +160,5 @@ No known bugs at this time.
 Michael Nketia - [Github](https://github.com/Addict07) 
 Stephen Eze - [Github](https://github.com/stdjes) / [Twitter](https://twitter.com/stdjes)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
